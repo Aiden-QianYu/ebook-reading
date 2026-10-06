@@ -1,0 +1,4 @@
+interface:
+  display_name: "ebook-reading"
+  short_description: "按指定章节、续读章节数或时间代读电子书，将内容摘要与定位原文保存到 Obsidian"
+  default_prompt: "使用 $ebook-reading 继续阅读我指定的书和章节；未指定章节时按 30 分钟阅读量处理，并保存 Obsidian 摘要。"

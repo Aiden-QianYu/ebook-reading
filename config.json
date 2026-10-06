@@ -1,0 +1,11 @@
+{
+  "mode": "ai-equivalent",
+  "minutes": 30,
+  "cjk_chars_per_minute": 400,
+  "english_words_per_minute": 200,
+  "language": "zh-CN",
+  "timezone": "Asia/Shanghai",
+  "vault_path": null,
+  "output_subfolder": "读书笔记/读书摘要",
+  "sync_books_position": false
+}
